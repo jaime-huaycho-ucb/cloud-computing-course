@@ -15,10 +15,10 @@ const config: Config = {
   },
 
   // GitHub Pages - Repo: https://github.com/JuanJoseMirandaM/cloud-computing-course
-  url: 'https://juanjosemirandam.github.io',
+  url: 'https://jaime-huaycho-ucb.github.io',
   baseUrl: '/cloud-computing-course/',
 
-  organizationName: 'JuanJoseMirandaM',
+  organizationName: 'jaime-huaycho-ucb',
   projectName: 'cloud-computing-course',
 
   deploymentBranch: 'gh-pages',
@@ -42,7 +42,7 @@ const config: Config = {
           routeBasePath: '/', // docs en la ruta principal
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/JuanJoseMirandaM/cloud-computing-course/tree/main/',
+            'https://github.com/jaime-huaycho-ucb/cloud-computing-course/tree/main/',
         },
         blog: false, // sin blog
         theme: {
@@ -66,13 +66,8 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/JuanJoseMirandaM',
+          href: 'https://github.com/jaime-huaycho-ucb',
           label: 'GitHub',
-          position: 'right',
-        },
-        {
-          href: 'https://www.linkedin.com/in/juanjosemirandam',
-          label: 'LinkedIn',
           position: 'right',
         },
       ],
