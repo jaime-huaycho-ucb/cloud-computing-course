@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Bienvenidos al Curso
+# Bienvenidos al Curso por parte de Jaime
 
 Bienvenidos a la documentación del curso de **Computación en la Nube**. Aquí encontraras los materiales, guías y referencias para seguir el curso.
 
